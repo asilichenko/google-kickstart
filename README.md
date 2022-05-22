@@ -1,2 +1,2 @@
 # google-kickstart
-My solutions of Google Kickstart events
+My solutions for Google Kickstart events
